@@ -1,2 +1,2 @@
-maintenance=false
-version=0.0.1
+state_maintenance=false
+state_version=0.0.1
