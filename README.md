@@ -1,2 +1,2 @@
-version=0.0.1
 maintenance=true
+version=0.0.1
